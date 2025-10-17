@@ -32,8 +32,10 @@ To run this project, you need to install the following packages:
 pip install pandas
 pip install numpy
 pip install scikit-learn
+pip install matplotlib
 pip install streamlit
 ```
+
 
 **Usage**
 
@@ -67,7 +69,15 @@ The predictive model has demonstrated exceptional performance, boasting an accur
 **User-Friendly Streamlit Application**
 
 - This Streamlit application offers an intuitive and user-friendly interface. Users can effortlessly input their medical and demographic information, including gender, age, hypertension, heart diseases, smoking history, BMI, HbA1c level, and blood glucose level.
-- After providing these details, the application swiftly processes the information and generates a diabetes risk prediction based on the input data. This enables users to quickly assess their potential risk of developing diabetes.**Contributing**
+- After providing these details, the application swiftly processes the information and generates a diabetes risk prediction based on the input data. This enables users to quickly assess their potential risk of developing diabetes.
+
+**Accessibility**
+
+The Streamlit application is readily accessible through the following link: https://krishna-teja-diabetes-prediction-using-machine-learning.streamlit.app/.
+
+Users can conveniently access the tool in their web browsers, making it easily available for healthcare professionals and individuals concerned about diabetes risk.
+
+**Contributing**
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
