@@ -39,7 +39,7 @@ pip install streamlit
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Diabetes-Prediction-using-Machine-Learning.git```
+1. Clone the repository: ```https://github.com/krishna17092004/Diabetes-Prediction-using-Machine-Learning.git```
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Streamlit app: ```streamlit run app.py```
 4. Access the app in your browser at ```http://localhost:8501```
@@ -91,7 +91,7 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 📧 Email: gopiashokankiot@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: [linkedin.com/in/krishna-teja-k-ai](https://www.linkedin.com/in/krishna-teja-k-ai)
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
